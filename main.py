@@ -2,7 +2,7 @@ import pgzrun
 
 WIDTH = 800
 HEIGHT = 600
-TITLE = "弹跳圆圈"
+TITLE = "circle"
 
 x1=300
 y1=0
