@@ -58,4 +58,5 @@ def update():
     if (y2-r < 0 and vy2 < 0) or (y2+r*count*2 > 600 and vy2 > 0):
         vy2 *= -1
 
+
 pgzrun.go()
